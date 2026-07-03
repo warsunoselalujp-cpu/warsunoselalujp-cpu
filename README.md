@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo! 👋 Saya warsunoselalujp-cpu
 
-<!--
-**warsunoselalujp-cpu/warsunoselalujp-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang pejuang coding yang selalu JP (JACKPOT) dalam belajar! Tidak pernah menyerah walau error terus.
 
-Here are some ideas to get you started:
+## 🎮 What I'm Into
+- CPU architecture & hardware
+- Low-level programming
+- Gaming & tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Progress
+Terus belajar dan tidak pernah puas dengan ilmu yang sudah didapat.
+
+*"Selalu JP di setiap kesempatan!"* 🏆
